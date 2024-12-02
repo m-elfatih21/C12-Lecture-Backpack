@@ -65,6 +65,25 @@ This rest of the repository is structured into four main folders, each targeting
   - **Web Development with Django**: Building web applications using Django, including MVT design pattern and authentication.
   - **Data Structures and Algorithms**: Introduction to data structures like stacks and trees, and algorithms for sorting and searching.
 
+- **[CyberSecurity (CS)](CyberSecurity%20(CS)/)** : This stream covers foundational and advanced topics in cybersecurity, focusing on both technical skills and strategic responses to security challenges. It includes:
+
+  - **Python Programming Fundamentals**: Basics of Python, including data types, conditionals, loops, and data structures.
+  - **Debugging and OOP**: Techniques for debugging Python code and understanding Object-Oriented Programming.
+  - **Cybersecurity Fundamentals**: Overview of cyber crimes, governance frameworks, and incident response strategies.
+  - **Linux & Bash**: Basic Linux commands and Bash scripting for system administration and automation.
+  - **Web Security**: Understanding web development basics, MITM attacks, XSS vulnerabilities, and SQL injection prevention.
+  - **Ethical Hacking**: Techniques for penetration testing and ethical hacking to assess and improve security.
+
+- **[Data Science (DS)](Data%20Science%20(DS)/)** : This stream offers a comprehensive introduction to data science, covering fundamental programming skills, data manipulation, and advanced machine learning techniques. It includes:
+
+  - **Python Fundamentals**: Basics of Python, including data types, conditional statements, loops, and functions.
+  - **Data Management**: Using Pandas for data manipulation, handling datasets, and performing data analysis and visualization with Matplotlib and Seaborn.
+  - **Data Analysis and Visualization**: Techniques for data cleaning, preprocessing, and visualization to uncover insights and communicate findings effectively.
+  - **Exploratory Data Analysis (EDA)**: Conducting EDA to identify patterns and guide further analysis.
+  - **Machine Learning Basics**: Introduction to machine learning concepts, including simple and multiple linear regression, decision trees, and random forests.
+  - **Advanced Machine Learning Techniques**: Implementing and understanding decision trees and random forests to enhance predictive accuracy and model robustness.
+
+
 - **[Digital Marketing (DGM)](Digital%20Marketing%20(DGM)/)** : This stream provides a comprehensive overview of modern digital marketing, progressing from fundamentals to advanced strategies. It covers:
 
   - **Marketing Fundamentals**: Introduction to digital marketing concepts, use cases, and social media analytics
