@@ -6,7 +6,7 @@ REM Changing directory to the cloned repository
 cd C12-Lecture-Backpack
 
 REM Adding the specific folders to sparse checkout
-git sparse-checkout add "Software Engineering (SE)"
+git sparse-checkout add "Full Stack Web Development (WD)"
 git sparse-checkout add "StarterPack"
 
 @echo on

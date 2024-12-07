@@ -6,5 +6,5 @@ git clone --filter=blob:none --sparse https://github.com/skills-cogrammar/C12-Le
 cd C12-Lecture-Backpack
 
 # Adding the specific folders to sparse checkout
-git sparse-checkout add "Software Engineering (SE)"
+git sparse-checkout add "CyberSecurity (CS)"
 git sparse-checkout add "StarterPack"
